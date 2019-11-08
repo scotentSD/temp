@@ -19,8 +19,9 @@
         </div>
 
         <div class="timeline_body">
-        {{ post.initials }}
+
         {{ post.excerpt }}
+
         </div>
       </div>
   {% endfor %}
