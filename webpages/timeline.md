@@ -1,7 +1,7 @@
 
-#
 [comment]: <> ( Colour Key )
-<div class="demo-card key">
+
+<div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
   <p><span style="background-color: #3ee9d1">&nbsp;</span> Other</p>
