@@ -13,16 +13,9 @@
 
 <ul>
   {% for post in site.posts %}
-
-      <div class="timeline_card {{post.type}}">
-        <div class="timeline_head">
-          <h2><span class="small">{{ post.display_date }}</span>Online Research</h2>
-        </div>
-        <div class="card_body">
-          Content of the actual card
-        </div>
-      </div>
-
-
+    <li>
+      <h2>{{post.type}}</h2>
+      <a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a>
+    </li>
   {% endfor %}
 </ul>
