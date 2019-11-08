@@ -1,10 +1,9 @@
 
 [comment]: <> ( Colour Key )
+
+
 <link rel="stylesheet" href="timeline.css">
 
-
-
-<section id=timeline>
 
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
@@ -15,7 +14,7 @@
   <p><span style="background-color: #935300">&nbsp;</span> Partners collaboration - co-design</p>
 </div>
 
-
+<section id="timeline">
 <ul>
   {% for post in site.posts %}
 
