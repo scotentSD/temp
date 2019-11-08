@@ -4,7 +4,6 @@
 
 <link rel="stylesheet" href="timeline.css">
 
-
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
