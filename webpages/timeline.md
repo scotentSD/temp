@@ -2,7 +2,7 @@
 [comment]: <> ( Colour Key )
 
 
-<link rel="stylesheet" href="timeline.css">
+<link rel="stylesheet" href="/webpages/timeline.css?ver=2">
 
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
