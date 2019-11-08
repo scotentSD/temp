@@ -1,9 +1,6 @@
 
 [comment]: <> ( Colour Key )
 
-
-<link rel="stylesheet" href="/webpages/timeline.css?ver=2">
-
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
