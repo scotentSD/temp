@@ -1,4 +1,5 @@
 
+<h1>Beta Timeline</h1>
 <section id="timeline">
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
