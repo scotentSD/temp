@@ -17,7 +17,7 @@
 - Design Sprint
 - Customer Journey
 - Storymap: User Needs
-- Personas
+- [Personas](personas.pdf)
 - Persona Spectrum
 - Service Blueprint
 - Storymap: Features  
