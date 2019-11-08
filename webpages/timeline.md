@@ -1,7 +1,5 @@
 
 <section id="timeline">
-
-[comment]: <> ( Colour Key )
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
@@ -14,9 +12,8 @@
 <ul>
   {% for post in site.posts %}
 
-      <div class="timeline_card {{post.type}}">
-
-        <div class="timeline_head">
+      <div class="timeline_card ">
+        <div class="timeline_head {{post.type}}">
           <h2><span class="small">{{ post.display_date }}</span>Online Research</h2>
         </div>
 
@@ -24,8 +21,6 @@
           Content of the actual card
         </div>
       </div>
-
-
   {% endfor %}
 </ul>
 
