@@ -1,5 +1,5 @@
 /* Border Box */
-* {
+timeline_box {
   box-sizing: border-box;
 }
 
@@ -32,20 +32,6 @@ strong {
   max-width: 90%;
   margin: auto;
   margin-bottom: 45px;
-}
-#timeline .timeline-card-wrapper {
-  position: relative;
-  margin: auto;
-}
-
-#timeline .timeline-card-wrapper::after {
-  z-index: 1;
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 50%;
-  border-left: 1px solid rgba(191, 191, 191, 0.4);
 }
 
 #timeline .timeline-card {
