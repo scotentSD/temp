@@ -153,10 +153,10 @@ strong {
 #timeline .lab .head::after {
   border-color: #ce43eb;
 }
-#timeline .lab { /* blue online research */
+#timeline .online { /* blue online research */
   background-color: #4d92eb;
 }
-#timeline .lab .head::after {
+#timeline .online .head::after {
   border-color: #4d92eb;
 }
 #timeline .partner { /* brown for partners */
