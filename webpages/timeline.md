@@ -11,10 +11,10 @@
 
 <ul>
   {% for post in site.posts %}
-
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
-          <h2><span class="small">{{ post.display_date }}</span><br>{{post.type}}</h2>
+          <h2>{{post.type}}</h2>
+          {{ post.display_date }}
         </div>
 
         <div class="timeline_body">
