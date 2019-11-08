@@ -1,4 +1,4 @@
-# Temp V6
+# Temp V7
 
 ## Production Links
 - Live:zzz
@@ -17,11 +17,12 @@
 - Design Sprint
 - Customer Journey
 - Storymap: User Needs
-- Personas
+- [Personas](personas.pdf)
 - Persona Spectrum
 - Service Blueprint
 - Storymap: Features  
 - [Timeline](webpages/timeline)
+
 
 ## Customer Research
 - Usability Testing ...
