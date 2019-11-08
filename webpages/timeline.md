@@ -19,7 +19,7 @@
             <span>01</span>
           </div>
   -->     
-          <h2 class="h2_{{post.type}}">{{post.type}}</h2>
+          <h2 class="h2_{{post.type}}"></h2>
           <h3>{{ post.display_date }}</h3>
         </div>
         <div class="timeline_body">
