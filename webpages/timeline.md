@@ -14,10 +14,11 @@
 
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
-          <h2><span class="small">{{ post.display_date }}</span>Online Research</h2>
+          <h2><span class="small">{{ post.display_date }}</span>{{post.type}}</h2>
         </div>
 
         <div class="timeline_body">
+        {{ post.initials}}
           Content of the actual card
         </div>
       </div>
