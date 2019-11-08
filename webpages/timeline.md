@@ -13,6 +13,9 @@
 <ul>
   {% for post in site.posts %}
       <div class="timeline_card ">
+      <div class="number-box">
+          <span>01</span>
+        </div>
         <div class="timeline_head {{post.type}}">
           <h2>{{post.type}}</h2>
           {{ post.display_date }}
