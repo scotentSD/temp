@@ -19,7 +19,7 @@
 
         <div class="timeline_body">
         {{ post.initials}}
-          Content of the actual card
+          {{post.content]]
         </div>
       </div>
   {% endfor %}
