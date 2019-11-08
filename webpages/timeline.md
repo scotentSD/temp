@@ -5,7 +5,7 @@
 
 
 [comment]: <> ( Colour Key )
-<div class="colour_key" style="border: 1px solid rgba(191, 191, 191, 0.4);">
+<div class="colour_key" style="border: 1px solid rgba(191, 191, 191, 0.4); margin 5px;ß">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
   <p><span style="background-color: #3ee9d1">&nbsp;</span> Other</p>
