@@ -15,10 +15,10 @@
   {% for post in site.posts %}
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
-          <div class="timeline_number-box">
+          <!-- <div class="timeline_number-box">
             <span>01</span>
           </div>
-          <h2>{{post.type}}</h2>
+  -->          <h2>{{post.type}}</h2>
           <h3>{{ post.display_date }}</h3>
         </div>
         <div class="timeline_body">
