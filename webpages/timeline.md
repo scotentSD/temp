@@ -1,6 +1,10 @@
 
-[comment]: <> ( Colour Key )
 
+
+<link rel="stylesheet" href="timeline.css">
+
+
+[comment]: <> ( Colour Key )
 <div class="colour_key">
   <p style="text-align: center"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
