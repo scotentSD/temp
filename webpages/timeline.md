@@ -1,8 +1,5 @@
 
-
-
-
-
+<section id="timeline">
 
 [comment]: <> ( Colour Key )
 <div class="colour_key">
@@ -14,7 +11,6 @@
   <p><span style="background-color: #935300">&nbsp;</span> Partners collaboration - co-design</p>
 </div>
 
-<section id="timeline">
 <ul>
   {% for post in site.posts %}
 
