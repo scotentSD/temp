@@ -11,7 +11,7 @@
   <p><span style="background-color: #935300">&nbsp;</span> Partners collaboration - co-design</p>
 </div>
 test
-<ul>
+<ul class="timeline_ul">
 test2
   {% for post in site.posts %}
       <div class="timeline_card ">
@@ -20,6 +20,7 @@ test2
             <span>{{ post.initial }}</span>
           </div>
           <span class="date_{{post.type}}" > {{ post.display_date }} </span>
+          <br>
           <span class="type_{{post.type}}" > </span>
         </div>
         <div class="timeline_body">
