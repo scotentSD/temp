@@ -4,11 +4,11 @@
 <h3>Beta Timeline</h3>
 <div class="colour_key">
   <p style="text-align: left"><strong>KEY</strong></p>
-  <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
-  <p><span style="background-color: #3ee9d1">&nbsp;</span> Other</p>
-  <p><span style="background-color: #ce43eb">&nbsp;</span> Lab research</p>
-  <p><span style="background-color: #4d92eb">&nbsp;</span> Online research</p>
-  <p><span style="background-color: #935300">&nbsp;</span> Partners collaboration - co-design</p>
+  <p><span style="background-color: #f5c44b">&nbsp;&nbsp;</span> Accessibility</p>
+  <p><span style="background-color: #3ee9d1">&nbsp;&nbsp;</span> Other</p>
+  <p><span style="background-color: #ce43eb">&nbsp;&nbsp;</span> Lab research</p>
+  <p><span style="background-color: #4d92eb">&nbsp;&nbsp;</span> Online research</p>
+  <p><span style="background-color: #935300">&nbsp;&nbsp;</span> Partners collaboration - co-design</p>
 </div>
 
 <ul class="timeline_ul">
