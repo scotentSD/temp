@@ -17,7 +17,7 @@
 
         <div class="timeline_head {{post.type}}">
           <span class="date_{{post.type}}" > {{ post.display_date }} </span>
-          <!- <br>  -->
+          <!-- <br>  -->
           <span class="type_{{post.type}}" > </span>  
         </div>
         <div class="timeline_body">
