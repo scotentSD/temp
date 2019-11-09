@@ -16,10 +16,10 @@
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
           <div class="timeline_number-box">
-            <span></span>
+            <span>{{ post.initial }}</span>
           </div>
-          <h5 class="h5_{{post.type}}" > {{ post.display_date }} </h5>
-          <h4 class="h4_{{post.type}}" > </h4>
+          <span class="date_{{post.type}}" > {{ post.display_date }} </span>
+          <span class="type_{{post.type}}" > </span>
         </div>
         <div class="timeline_body">
           {{ post.excerpt }}
