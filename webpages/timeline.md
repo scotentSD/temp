@@ -10,14 +10,13 @@
   <p><span style="background-color: #4d92eb">&nbsp;</span> Online research</p>
   <p><span style="background-color: #935300">&nbsp;</span> Partners collaboration - co-design</p>
 </div>
-test
+
 <ul class="timeline_ul">
-test2
   {% for post in site.posts %}
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
           <div class="timeline_number-box">
-            <span>{{ post.initial }}</span>
+            <span>{{ post.initials }}</span>
           </div>
           <span class="date_{{post.type}}" > {{ post.display_date }} </span>
           <br>
