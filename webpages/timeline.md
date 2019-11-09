@@ -13,16 +13,12 @@
 
 <ul class="timeline_ul">
   {% for post in site.posts %}
-      <div class="timeline_card ">
-        <div class="timeline_head {{post.type}}">
-        <!--  <div class="timeline_number-box">
-                <span></span>
+      <div class="timeline_card">
 
-              </div>
-          -->
+        <div class="timeline_head {{post.type}}">
           <span class="date_{{post.type}}" > {{ post.display_date }} </span>
           <br>
-          <span class="type_{{post.type}}" > </span>
+          <span class="type_{{post.type}}" > </span>  
         </div>
         <div class="timeline_body">
           {{ post.excerpt }}
