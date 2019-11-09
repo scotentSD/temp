@@ -18,8 +18,8 @@
           <!-- <div class="timeline_number-box">
             <span>01</span>
           </div>-->     
-          <h2 class="h2_{{post.type}}"></h2>
-          <h3 class="h3_{{post.type}}>{{ post.display_date }}</h3>
+          <h2 class="h2_{{post.type}}" > </h2>
+          <h3 class="h3_{{post.type}}" > {{ post.display_date }} </h3>
         </div>
         <div class="timeline_body">
           {{ post.excerpt }}
