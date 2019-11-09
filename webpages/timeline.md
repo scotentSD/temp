@@ -16,7 +16,7 @@
       <div class="timeline_card ">
         <div class="timeline_head {{post.type}}">
           <div class="timeline_number-box">
-            <span>|</span>
+            <span></span>
           </div>
           <h3 class="h3_{{post.type}}" > {{ post.display_date }} </h3>
           <h2 class="h2_{{post.type}}" > </h2>
