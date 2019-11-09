@@ -20,9 +20,11 @@
           </div>
   -->     
           <h2 class="h2_{{post.type}}"></h2>
-          <h3>{{ post.display_date }}</h3>
+          <h3 class="h3_{{post.type}}>{{ post.display_date }}</h3>
         </div>
         <div class="timeline_body">
+          State of Rohan: {{ post.rohan }}
+          <br>
           {{ post.excerpt }}
         </div>
       </div>
