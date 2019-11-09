@@ -1,9 +1,9 @@
 
 
 <section id="timeline">
-<h1>Beta Timeline</h1>
+<h3>Beta Timeline</h3>
 <div class="colour_key">
-  <p style="text-align: center"><strong>KEY</strong></p>
+  <p style="text-align: left"><strong>KEY</strong></p>
   <p><span style="background-color: #f5c44b">&nbsp;</span> Accessibility</p>
   <p><span style="background-color: #3ee9d1">&nbsp;</span> Other</p>
   <p><span style="background-color: #ce43eb">&nbsp;</span> Lab research</p>
@@ -18,8 +18,8 @@
           <div class="timeline_number-box">
             <span></span>
           </div>
-          <h3 class="h3_{{post.type}}" > {{ post.display_date }} </h3>
-          <h2 class="h2_{{post.type}}" > </h2>
+          <h5 class="h5_{{post.type}}" > {{ post.display_date }} </h5>
+          <h4 class="h4_{{post.type}}" > </h4>
         </div>
         <div class="timeline_body">
           {{ post.excerpt }}
