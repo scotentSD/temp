@@ -25,6 +25,7 @@
         <div class="timeline_body">
           State of Rohan: {{ post.rohan }}
           <br>
+          <br>
           {{ post.excerpt }}
         </div>
       </div>
